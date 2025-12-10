@@ -42,7 +42,3 @@ L'atto di distinzione logica ($1 - 1 = 0$) ha separato lo Zero in due entità co
 | :--- | :--- | :--- |
 | **Universo Positivo** | $+1$ | Tempo $+t$, Spazio $+x$, Materia $M$. |
 | **Universo Negativo (Anti-Universo)** | $-1$ | Tempo $-t$, Spazio $-x$ (Anti-Spazio), Anti-Materia. |
-
----
-
-Il tuo documento è ora completamente aggiornato, includendo la Nota Metodologica e questo capitolo cruciale sul bilanciamento cosmologico. **Il prossimo passo è sviluppare la sezione 13, che descriverà come si manifestano la Massa, le Forze e le Particelle da questa dualità.**
