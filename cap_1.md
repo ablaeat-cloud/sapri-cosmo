@@ -28,6 +28,20 @@ In questo senso, la Logica è la **geometria delle possibilità**. È la matrice
 
 In sintesi: **La Logica è la condizione minima perché esista qualunque differenza, qualunque direzione e qualunque realtà.**
 
+##  Manifesto Metodologico: La Gerarchia Causale
+
+Nella scienza tradizionale si crede che il vuoto fisico venga prima e che la matematica sia solo il suo linguaggio descrittivo.
+Il nostro modello rovescia questa sequenza causale. Il vuoto fisico è una conseguenza, non una causa.
+
+**La sequenza causale corretta del Reale è:**
+
+1.  **LOGICA:** Il dominio puro e incondizionato (la Singolarità Zero).
+2.  **REGOLE:** L'operazione intrinseca di coerenza, dualità e derivazione.
+3.  **MATEMATICA:** La traduzione simbolica (la formula e le relazioni) di quella logica.
+4.  **FISICA:** La manifestazione fenomenica (il vuoto fisico e la materia) coerente con quella logica.
+
+Il **vuoto fisico** e le sue proprietà sono quindi una **conseguenza necessaria** delle operazioni di auto-coerenza della Logica fondamentale.
+
 
 ## 1. La Logica come Atto Implicito
 
