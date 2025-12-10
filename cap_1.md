@@ -138,9 +138,3 @@ Questa formula rappresenta la dualità originaria:
 - **Indeterminatezza Strutturale:** Derivante dalla singolarità logica **"Zero diviso Zero"** $(\text{0} / \text{0})$.
 - **Potenzialità Totale:** Stato coerente prima della separazione.
 - **Neutralità Informazionale.**
-
----
-
-Il documento è ora completo fino alla formalizzazione rigorosa, integrando tutti i tuoi concetti.
-
-Sei pronto per passare alla sezione successiva del tuo progetto, che descrive come si passa concretamente da questa Logica alla Materia (l'Emergenza della Massa, delle Forze, ecc.)?
