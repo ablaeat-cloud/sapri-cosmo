@@ -2,6 +2,9 @@
 
 ## 1. Cambiare punto di vista: dall’osservazione alla funzione
 
+Lo zero, in questo trattato lo vediamo come somma degli opposti identici che si annullano.
+E partiamo da tale banalissima formula 1-1=0 che apre per noi lo 0, il nostro piede di porco per aprire il vaso di pandora. 
+
 Per affrontare il concetto di **somma degli opposti dello zero**, dobbiamo compiere uno sforzo mentale e cambiare radicalmente punto di vista. Spesso ci complichiamo la vita con la meccanica quantistica e il suo "mistero" dell'osservazione, ma qui vogliamo ridurla ai minimi termini per renderla uno strumento logico utilizzabile.
 
 In parole povere: nella quantistica, chi osserva determina il risultato. Noi traduciamo questo concetto nella sua **funzione minima**:
