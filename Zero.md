@@ -567,7 +567,38 @@ In queste definizioni risiede il superamento della fisica classica: qui non parl
 * **Il Colpo di Frusta (Radiazione):** Lo scatto violento dei fili liberati dalla prigionia del nodo. È il rilascio dell'energia sequestrata che torna bruscamente verso lo Zero. La tecnologia umana è l'arte di "mungere" queste ferite.
 * **La Conservazione della Logica:** La legge suprema. Niente si crea o si distrugge perché il bilancio dello Zero deve essere sempre perfetto. Ogni tensione (+1) deve avere il suo ritorno (-1).
 
+## 30. Gli Stati della Materia: Gradi di Attrito Logico
+
+Se la materia è "attrito logico" tra l'impulso (Dispari) e la gabbia (Pari), gli stati solido, liquido e gassoso rappresentano quanto la struttura sia stretta o allentata rispetto al perno centrale.
+
+### 1. Lo Stato Solido: La Prigione della Coerenza
+Nello stato solido, i pali sono intrecciati in una rete così densa e rigida che la funzione ciclica ($1-0-1$) è costretta a percorrere sempre gli stessi identici percorsi. 
+* **Caratteristica:** Massima Massa, Minimo Movimento.
+* **Logica:** La "nostalgia dello Zero" (gravità interna) vince sulla spinta vibrante. La struttura è una gabbia chiusa a chiave dove l'informazione rimbalza vorticosamente senza poter cambiare traiettoria.
+
+### 2. Il Calore: L'Agitazione dei Pali
+Il calore non è "fuoco", è **Energia Cinetica Logica**. Quando introduciamo calore, stiamo dando ai pali la forza di scuotersi. È come se la griglia del Toroide iniziasse a tremare: i nodi logici iniziano ad allentarsi perché l'impulso dispari è così forte da "distanziare" temporaneamente le pareti della gabbia pari.
+
+### 3. Lo Stato Liquido: La Geometria Fluida
+Nel liquido, i pali non sono più saldati. La struttura esiste ancora (il volume è definito), ma i pali possono scorrere l'uno sull'altro. 
+* **Logica:** La funzione ciclica non è più intrappolata in un binario fisso, ma può "scivolare". È un equilibrio precario tra la forma (Pari) e il caos dell'impulso (Dispari).
+
+### 4. Lo Stato Gassoso: La Liberazione dell'Impulso
+Nello stato gassoso, l'energia (vibrazione) è così alta che i pali si scollano quasi del tutto. La "Gabbia" del numero 6 o 8 si frammenta. 
+* **Logica:** Gli impulsi logici viaggiano quasi liberi verso l'esterno, cercando di occupare tutto il potenziale $x$ disponibile. Il gas tende all'espansione infinita perché il legame di "debito" verso lo Zero locale è indebolito dalla velocità di vibrazione.
+
+
+
 ---
+
+## 31. Caoticità e Attrito: Il Ruolo dell'Entropia
+
+Quello che la fisica chiama Entropia, noi la chiamiamo **Perdita di Coerenza della Griglia**. 
+
+* **L'Attrito:** È ciò che genera la percezione di "calore" e "massa". Più un sistema è complesso e ordinato (solido), più l'attrito è alto perché l'impulso deve "chiedere il permesso" a troppi pali per passare.
+* **La Caoticità:** È il ritorno verso l'indeterminato. Quando un solido diventa gas, la logica passa dal "Determinato" (conoscenza strutturata) verso una forma di "Potenziale Disperso". 
+
+> **Sintesi Meccanica:** Il calore è lo strumento con cui lo Zero "allenta la presa" sulla forma. Più fa caldo, più la geometria si dissolve; più fa freddo, più la logica si congela in strutture solide e pesanti.
 
 > **REGOLA D'ORO PER IL PROSIEGUO:**
 > La materia è un nodo, la gravità è un tiro, l'energia è uno scatto, la luce è la presenza.
