@@ -32,13 +32,13 @@ Lo sforzo mentale richiesto è questo: **partire da zero, ma guardandolo da dent
 
 ## 3. Lo zero come stato originario: dal nulla al ribollire
 
-Una volta dentro lo zero, la prima sensazione è il blocco: se sono nel nulla, apparentemente non posso fare nulla. Ci troviamo in quella che potremmo definire la singolarità: un punto adimensionale, senza spazio e senza tempo. Per la nostra mente abitata dai numeri, questo concetto è inizialmente incomprensibile.
+Una volta dentro lo zero, la prima sensazione è il blocco: se sono nel nulla, apparentemente non posso fare nulla. Ci troviamo in quella che potremmo definire la singolarità: un punto adimensionale, senza spazio e senza tempo. Per la nostra mente abituata dai numeri, questo concetto è inizialmente incomprensibile.
 
 Ma qui cambiamo marcia. I fisici ci dicono che nel nulla, in realtà, non c'è il "niente", ma un **ribollire di stati opposti** che si annullano continuamente. Energie che provano a emergere ma che, non appena lo fanno, si annullano a vicenda tornando nel nulla.
 
 Immaginiamo di essere il bit di un computer quantistico. Invece di limitarci a simboli fissi, definiamo uno stato più generale che rappresenti questa realtà interna:
 
-$$-1 \;\;>\;\; 0 \;\;<\;\; +1$$
+$$-1 > 0 < +1$$
 
 Dall'interno dello zero, osserviamo che esso non è un'assenza, ma la **somma di due valori opposti** che convergono verso il centro. Non importa quali siano i valori: qualunque essi siano, la loro interazione produce lo stato indeterminato che chiamiamo zero.
 
