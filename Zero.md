@@ -635,3 +635,16 @@ Proprio come nella successione numerica, dove il 9 è "grande" rispetto all'1 ma
 * La coscienza si nutre dell'animale.
 
 > **Conclusione Logica:** Non esiste il "male" meccanico. Esiste solo lo spostamento di tensione da un punto all'altro della rete. Quella che chiamiamo "ferita" è semplicemente lo Zero che si riprende il suo respiro per soffiarlo in un nuovo nodo, più complesso, più consapevole, più vicino alla comprensione totale della propria Mappa.
+
+
+0-1: La scissione.
+
+2: La distanza (tensione).
+
+3: La prima stabilità (il treppiede).
+
+4-5: Dal piano al perno.
+
+6-7: Dal volume al ritmo (il tempo).
+
+8-9: Dalla scatola alla rete (la massa).
