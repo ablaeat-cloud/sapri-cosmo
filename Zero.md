@@ -4,7 +4,8 @@
 
 Lo zero, in questo trattato lo vediamo come somma degli opposti identici che si annullano.
 E partiamo da tale banalissima formula :
-1-1=0
+
+**1-1=0**
 
 questa formula, separiamo due valori opposti nello  0, il nostro piede di porco per aprire il vaso di pandora
 
