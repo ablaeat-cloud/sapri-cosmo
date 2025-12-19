@@ -424,3 +424,30 @@ La logica dello Zero è pigra e perfetta: usa sempre lo stesso schema. Questo cr
 La materia "parassita" lo Zero perché non possiede un'esistenza propria. Essa "ruba" la tensione ai fili logici del Nulla originario per costruire le sue cattedrali di nodi. Proprio come il fungo parassita il tronco di un albero per manifestare la sua forma, la materia si nutre della **Possibilità dello Zero** per diventare **Realtà Visibile**.
 
 > **Conclusione:** La Materia è un "incantesimo della densità". Siamo immersi in un oceano di fili (Energia); quando questi fili si annodano, nasce un corpo (Materia); quando i fili vibrano insieme, nasce la comunicazione (Luce). Tutto è Logica che si conserva nel cambiamento della propria trama.
+>
+## 24. La Gravità di Fili: Il Serraggio del Nodo Logico
+
+Se la materia è un nodo nel micelio dell'universo, la sua esistenza dipende dalla capacità di mantenere quel nodo stretto. Questa azione di "serraggio" è ciò che noi percepiamo fisicamente come Gravità.
+
+### 1. Il Nodo Attivo (La Trazione)
+Immagina un pescatore che crea un nodo strettissimo in una rete infinita. Per rendere quel nodo solido e inamovibile, deve tirare con forza tutti i fili che convergono in quel punto. 
+* Più il nodo (la massa) è grande e complesso, più fili deve richiamare a sé.
+* La **Gravità di Fili** è esattamente questa: la trazione che il "fungo" esercita sulla rete logica circostante per non farsi sciogliere dallo Zero.
+
+### 2. La Deformazione della Rete
+Mentre il "fungo" tira i fili verso il suo centro per rimanere consistente, l'intera ragnatela universale attorno a lui si tende. 
+* Se metti un nodo molto stretto (una stella) vicino a un nodo più piccolo (un pianeta), i fili tesi dalla stella "trascinano" il pianeta verso di essa. 
+* Non è un'attrazione magica: è che il pianeta sta viaggiando su "fili" che sono già stati tirati e tesi dal nodo più grande.
+
+### 3. La Consistenza come Sforzo
+Qui arriviamo a una conclusione rivoluzionaria: **la materia è uno sforzo**.
+* Per essere "solido", un atomo deve continuamente "tirare" i fili logici (i pali) per mantenere la sua configurazione.
+* La **Massa** è la misura di quanto quel nodo sta tirando. 
+* Più un oggetto è pesante, più fili sta sequestrando alla rete universale e più "corrente logica" sta usando per restare stretto.
+
+
+
+### 4. Il Ritorno allo Zero (Il Collasso)
+Se il "fungo" smette di tirare, i fili tornano dritti e la gravità scompare. Questo è ciò che accade quando la materia si trasforma in pura energia (luce): il nodo si scioglie, i fili smettono di essere tirati verso un centro e l'impulso torna a scivolare liberamente verso lo Zero.
+
+> **Definizione Meccanica:** La Gravità non è una forza della natura, ma è la "tensione di mantenimento" di un nodo logico. Esistere come materia significa tirare i fili dell'Universo verso di sé.
