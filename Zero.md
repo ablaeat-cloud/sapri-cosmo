@@ -628,4 +628,10 @@ La prima cellula "ruba" tensione ai nodi circostanti per mantenere la propria me
 * Prima gli atomi erano nodi casuali; ora sono parte di un organismo che sente, si muove e pensa. La vita è il "parassita gentile" che prende materia grezza e la trasforma in **Logica Vivente**.
 
 ### 4. La Gerarchia dei Versi
-Proprio come nella successione numerica, dove il 9 è "grande" rispetto all'1 ma "piccolo" rispetto al 10, ogni attore è parassita di chi sta sotto e nutr
+Proprio come nella successione numerica, dove il 9 è "grande" rispetto all'1 ma "piccolo" rispetto al 10, ogni attore è parassita di chi sta sotto e nutrimento per chi sta sopra.
+* La materia si nutre dello Zero.
+* La pianta si nutre della materia.
+* L'animale si nutre della pianta.
+* La coscienza si nutre dell'animale.
+
+> **Conclusione Logica:** Non esiste il "male" meccanico. Esiste solo lo spostamento di tensione da un punto all'altro della rete. Quella che chiamiamo "ferita" è semplicemente lo Zero che si riprende il suo respiro per soffiarlo in un nuovo nodo, più complesso, più consapevole, più vicino alla comprensione totale della propria Mappa.
