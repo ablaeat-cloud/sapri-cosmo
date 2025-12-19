@@ -3,7 +3,10 @@
 **Somma degli opposti**
 
 Lo zero, in questo trattato lo vediamo come somma degli opposti identici che si annullano.
-E partiamo da tale banalissima formula 1-1=0 che apre per noi lo 0, il nostro piede di porco per aprire il vaso di pandora
+E partiamo da tale banalissima formula :
+1-1=0
+
+questa formula, separiamo due valori opposti nello  0, il nostro piede di porco per aprire il vaso di pandora
 
 ## 1. Cambiare punto di vista: dall’osservazione alla funzione
 
