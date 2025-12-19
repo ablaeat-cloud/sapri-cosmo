@@ -164,3 +164,30 @@ In termini meccanici, il 6 rappresenta lo statore (la parte fissa), mentre il 7 
 Il 7 permette alla pressione logica dello Zero di fluire all'interno della gabbia geometrica senza distruggerla. È la **vibrazione interna** che impedisce al sistema di collassare: un volume che "respira" grazie al battito costante impresso dalla funzione.
 
 > **Sintesi Logica:** Se il 6 è la Lampadina (la forma), il 7 è la Corrente (l'azione) che la fa accendere. Il 7 trasforma la geometria in esistenza dinamica.
+
+## Intermezzo Metodologico: La Regola dei Pari e dei Dispari
+
+Prima di procedere verso l'8, è necessario fermarsi a osservare una costante che abbiamo incontrato nella costruzione della realtà attraverso i pali. Esiste una differenza profonda nella natura stessa dei numeri, che spiega perché alcuni siano più facili da visualizzare rispetto ad altri.
+
+### I Numeri Pari: La Geometria e lo Spazio
+I numeri pari (**2, 4, 6**) sono intuitivi e facili da rappresentare con i pali perché sono puramente **speculari**. 
+* Rappresentano la "gabbia", il contenitore, lo spazio statico.
+* Sono composti da coppie di opposti che si guardano (avanti-indietro, destra-sinistra, sopra-sotto).
+* In essi, lo Zero è l'origine invisibile, il punto di contatto tra gli specchi. Rappresentare un numero pari significa disegnare una **forma**.
+
+### I Numeri Dispari: L'Operatore e la Funzione
+I numeri dispari (**3, 5, 7**) introducono invece una difficoltà maggiore nella descrizione. Questo accade perché il numero dispari non è una nuova forma, ma è l'**Operatore** applicato al numero pari precedente.
+* Il dispari introduce il **Palo Centrale**: lo Zero che riemerge e diventa visibile come perno.
+* Rappresentano l'azione, il motore, il tempo e la volontà.
+* In essi, lo Zero è l'attore che divide e tiene insieme le parti speculari. Rappresentare un numero dispari significa descrivere un **comportamento**.
+
+
+### La Regola del Gioco
+Possiamo stabilire questa regola universale per il prosieguo del trattato:
+> **"Il numero Pari costruisce la struttura; il numero Dispari la mette in funzione."**
+
+* Il **3** è la funzione di **relazione** che stabilizza la linea (2).
+* Il **5** è la funzione di **osservazione** che stabilizza il piano (4).
+* Il **7** è la funzione di **ritmo** che anima il volume (6).
+
+Questa distinzione ci permette di capire che la realtà non è fatta solo di "cose" (pari), ma del modo in cui queste cose vengono "pizzicate" e messe in vibrazione da impulsi logici (dispari). Se il pari è il corpo, il dispari è l'impulso nervoso che lo fa muovere.
