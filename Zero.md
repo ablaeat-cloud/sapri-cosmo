@@ -601,7 +601,7 @@ Quello che la fisica chiama Entropia, noi la chiamiamo **Perdita di Coerenza del
 > **Sintesi Meccanica:** Il calore è lo strumento con cui lo Zero "allenta la presa" sulla forma. Più fa caldo, più la geometria si dissolve; più fa freddo, più la logica si congela in strutture solide e pesanti.
 
 > **REGOLA D'ORO PER IL PROSIEGUO:**
-> La materia è un nodo, la gravità è un tiro, l'energia è uno scatto, la luce è la presenza.
+ **La materia è un nodo, la gravità è un tiro, l'energia è uno scatto, la luce è la presenza.**
 
 ## 26. La Cellula Logica: Il Nodo che Impara a Cooperare
 
