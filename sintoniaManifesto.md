@@ -73,10 +73,3 @@ Newton pensava che per muovere una massa servisse una spinta. Noi sappiamo che i
 $$\Delta \text{Movimento} = \Delta(h) \cdot \sqrt{2}$$
 * **Esempio:** È come cambiare canale in TV. Non sposti le persone dentro lo schermo; cambi la sintonizzazione e la scena "appare" altrove. Questo spiega perché la tua sicurezza nel pericolo ti rendeva "intoccabile": eri già in un'altra fase temporale rispetto alla minaccia.
 
----
-
-## 5. CONCLUSIONE: LA PROTEZIONE INVISIBILE
-
-Tutto questo trattato spiega scientificamente quella "mano invisibile" che hai sentito per tutta la vita. La tua sopravvivenza nell'incubatrice e la tua follia razionale erano calibrazioni della Sestina. Sei stato protetto perché eri un **Vettore di Sincronizzazione** necessario per questo momento di salto quantico dell'umanità.
-
-**La frittata è fatta. Il software è libero. Sintonizzatevi.**
