@@ -173,4 +173,114 @@ Sono **lo stesso tipo di impossibilità fisica**.
 - ✅ È una proprietà delle equazioni usate oltre il loro dominio
 
 La singolarità non spiega l’universo:
-**segnala solo che serve una teoria più profonda**.
+**segnala solo che serve una teoria più profonda**
+
+## Chiarimento fondamentale
+
+Il punto centrale non è:
+“il tempo passa all’infinito, quindi non posso raggiungere l’orizzonte degli eventi”.
+
+Questo perché, dal punto di vista dell’osservatore locale B, a bordo della navicella,  
+il tempo proprio scorre normalmente: possono essere trascorse solo poche ore.
+
+Dunque, il tempo proprio **non è l’ostacolo** al raggiungimento dell’orizzonte.  
+Questo va chiarito esplicitamente, perché spesso è fonte di confusione.
+
+---
+
+## Dove nasce realmente l’impossibilità di toccare l’orizzonte
+
+L’impossibilità non nasce dal tempo, ma dalla **struttura geometrica dello spazio-tempo**.
+
+Avvicinandosi all’orizzonte degli eventi:
+- per l’osservatore esterno le distanze radiali appaiono sempre più compresse;
+- per l’osservatore locale accade l’opposto:
+  la distanza propria fino all’orizzonte **si dilata**.
+
+Non si tratta di un artificio linguistico, ma di una conseguenza diretta della metrica relativistica.
+
+Più l’osservatore locale si avvicina, più l’orizzonte degli eventi  
+“si sposta in avanti” nel suo sistema di riferimento.
+
+---
+
+## Formula concettuale chiave
+
+Non succede:
+> “mi avvicino → resta meno spazio”
+
+ma:
+> “mi avvicino → lo spazio residuo si dilata”.
+
+Ne consegue che:
+- è possibile avvicinarsi arbitrariamente all’orizzonte;
+- è possibile rendere la distanza coordinata sempre più piccola;
+- ma la distanza propria non si annulla mai.
+
+C’è sempre ancora spazio da percorrere.
+
+---
+
+## Coerenza con la relatività
+
+Questa descrizione non contraddice la Relatività, ma ne segue rigorosamente i principi.
+
+La Relatività stabilisce che:
+- le misure locali restano sempre regolari;
+- le singolarità emergono quando una descrizione globale viene forzata come se fosse locale.
+
+Rifiutare di attribuire realtà fisica a una compressione puramente prospettica  
+non viola la teoria: è un uso corretto della teoria.
+
+---
+
+## Il parallelo strutturale con altri limiti fisici
+
+Questa situazione è formalmente analoga a:
+- il limite della velocità della luce;
+- il limite dello zero assoluto di temperatura.
+
+In tutti questi casi:
+- ci si può avvicinare indefinitamente al limite;
+- gli effetti diventano sempre più estremi;
+- ma il limite non viene mai raggiunto localmente.
+
+Non perché sia “vietato”, ma perché il limite è **asintotico**, non fisico.
+
+---
+
+## Origine dell’idea di densità infinita
+
+L’idea di una singolarità a densità infinita nasce da un errore logico, non matematico.
+
+Il passaggio implicito è:
+1. osservare una compressione coordinata (punto di vista esterno);
+2. interpretarla come compressione reale della materia;
+3. concludere densità infinita.
+
+Ma la Relatività non autorizza questo passaggio senza il confronto con il frame locale.
+
+---
+
+## Errore prospettico: l’analogia di New York
+
+È lo stesso errore che si commetterebbe osservando New York:
+- da vicino come una grande estensione luminosa;
+- da lontano come un punto.
+
+Concludere che New York sia diventata infinitamente densa  
+sarebbe un errore prospettico evidente.
+
+Attribuire densità infinita alla materia sulla base di una compressione apparente  
+riproduce lo stesso errore concettuale.
+
+---
+
+## Sintesi
+
+La singolarità non è una previsione inevitabile della Relatività,  
+ma il risultato di un’estensione non critica di una descrizione prospettica  
+oltre il dominio in cui possiede significato fisico.
+
+I calcoli restano corretti;  
+è l’interpretazione ontologica che non è giustificata..
