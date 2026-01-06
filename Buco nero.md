@@ -1,4 +1,4 @@
-se# Trattato sul Viaggio nel Buco Nero
+sese# Trattato sul Viaggio nel Buco Nero
 
 ## Parte 1: Introduzione alla Narrazione
 
@@ -58,3 +58,20 @@ Questa è la prima incongruenza apparente:
 - Più la navicella si avvicina all'orizzonte, più la distanza residua verso di esso **aumenta**.
 - Di conseguenza, anche avvicinandosi all'infinito, la navicella B **non raggiunge mai realmente l'orizzonte degli eventi**.
 - Questo fenomeno spiega perché, pur teoricamente possibile, l'orizzonte degli eventi **non può essere toccato** dalla navicella B, restando coerente con la dilatazione temporale estrema osservata.
+
+### Materia che precipita nel buco nero
+
+1. **Osservatore esterno**
+   - La materia che cade sembra **rallentare progressivamente** man mano che si avvicina all’orizzonte degli eventi.
+   - Non “tocca mai” l’orizzonte: gli eventi rallentano fino a sembrare congelati e diventano sempre più rossi (redshift estremo).
+   - Apparentemente sospesa alla soglia, la materia sembra “ferma” all’orizzonte.
+
+2. **Osservatore locale (navicella B o oggetto che precipita)**
+   - Localmente, la materia **precipita normalmente** senza percepire rallentamenti o compressioni infinite.
+   - Tradizionalmente, secondo la relatività generale, attraversa l’orizzonte e si dirige verso la singolarità.
+   - Con la dilatazione spazio-tempo considerata: **lo spazio locale si allunga man mano che ci si avvicina all’orizzonte**, quindi per l’oggetto che cade, l’orizzonte appare sempre “un passo più avanti” e mai raggiunto.
+
+3. **Collasso della stella o oggetto compatto**
+   - L’ipotetica stella di neuroni collassa sotto gravità: per l’osservatore esterno, il buco nero si forma gradualmente, con materia che si avvicina sempre di più all’orizzonte.
+   - Localmente, la materia continua a cadere verso il centro senza accumularsi immediatamente.
+   - **Conclusione narrativa scientifica**: la materia precipita, ma grazie all’allungamento dello spazio locale, l’orizzonte degli eventi **non viene mai toccato realmente**, e la singolarità resta un limite teorico, non un punto fisico tangibile per chi precipita.
