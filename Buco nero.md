@@ -38,8 +38,7 @@ Questa è la prima incongruenza apparente:
 - Nonostante ciò, la **Navicella B continua a viaggiare normalmente**, senza percepire accelerazioni interne o compressioni materiali.  
   - La differenza tra **tempo locale della navicella** e **tempo universale osservato da lontano** diventa massima, mostrando il limite estremo della dilatazione temporale gravitazionale.
 
-## Parte 3: Osservazione dei Piloti
-
-- Dalla Navicella A: B rallenta fino a sembrare congelata.
-- Dalla Navicella B: A accelera nel tempo in modo apparente.  
-- L'effetto principale del buco nero è la **dilatazione temporale relativa**: il tempo è percepito diversamente a seconda della posizione rispetto alla singolarità
+- Avvicinandosi sempre di più all’orizzonte degli eventi, il tempo per la navicella diventa sempre più dilatato.
+- Se si tocca l’orizzonte, anche per una frazione infinitesimale del suo tempo locale, ciò corrisponde a un **tempo infinito** per l’universo esterno.
+- Questo concetto sfida la comprensione: il tempo locale continua normalmente, ma il riferimento esterno diventa inconcepibile.
+- Rimaniamo nel rigore scientifico: all’orizzonte degli eventi il tempo scorre teoricamente all’infinito, quindi l’idea di “andare oltre” è comprensibile solo dal punto di vista locale della navicella.
