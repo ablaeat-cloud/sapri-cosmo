@@ -88,3 +88,89 @@ Questa è la prima incongruenza apparente:
   3. **Orizzonte degli eventi:** nessuna materia può toccarlo.  
 
 - In tutti e tre i casi si tratta di **limiti fondamentali imposti dalle leggi fisiche**: richiederebbero energie o tempi infiniti, e quindi **la materia rimane sempre infinitamente vicina senza mai superare il limite**.
+- 
+# Singolarità: errore di calcolo o errore logico?
+
+## Punto chiave
+I **calcoli sulla singolarità sono corretti**, ma **la conclusione fisica che se ne trae non lo è**.  
+La densità infinita **non è una previsione reale**, è un **segnale che il modello ha smesso di funzionare**.
+
+---
+
+## Perché la fisica parla di densità infinita?
+
+Il ragionamento standard è il seguente:
+
+1. Si usa la **Relatività Generale** fino ai suoi limiti
+2. La materia viene trattata come **continua e comprimibile senza soglie**
+3. Le equazioni vengono spinte fino a \( r \rightarrow 0 \)
+
+Risultato matematico:
+- volume → 0  
+- massa finita  
+- densità → ∞  
+
+✔ Matematicamente coerente  
+✘ Fisicamente non garantito
+
+---
+
+## Il vero errore non è nei conti
+L’errore è **concettuale**, non matematico.
+
+Quando in fisica compare un infinito:
+- non è una risposta
+- è un **segnale di rottura del modello**
+
+Un infinito indica:
+> “Qui le equazioni non descrivono più la realtà fisica”.
+
+---
+
+## La “toppa” della singolarità
+Dire che:
+> “le leggi della fisica qui funzionano in modo diverso”
+
+significa in realtà:
+> “non sappiamo cosa succede, ma lo chiamiamo singolarità”.
+
+È una **licenza teorica**, non una spiegazione fisica.
+
+---
+
+## L’incongruenza logica fondamentale
+
+La fisica moderna accetta che:
+
+- la **velocità della luce** non sia raggiungibile
+- lo **zero assoluto** non sia raggiungibile
+- l’**orizzonte degli eventi** non sia toccabile in tempo finito
+
+Tutti questi limiti sono **asintotici**.
+
+Eppure si accetta senza problemi che:
+- la **densità possa diventare infinita**
+
+Questo è logicamente incoerente.
+
+---
+
+## Il parallelo corretto
+Raggiungere una singolarità a densità infinita è concettualmente identico a:
+
+- raggiungere la velocità della luce
+- raggiungere lo zero assoluto
+- toccare l’orizzonte degli eventi
+
+Sono **lo stesso tipo di impossibilità fisica**.
+
+---
+
+## Conclusione
+- ❌ La singolarità non è una realtà fisica osservabile
+- ✅ È un indicatore del limite del modello
+- ❌ La densità infinita non è una proprietà dell’universo
+- ✅ È una proprietà delle equazioni usate oltre il loro dominio
+
+La singolarità non spiega l’universo:
+**segnala solo che serve una teoria più profonda**.
