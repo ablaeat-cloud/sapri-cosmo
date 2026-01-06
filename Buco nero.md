@@ -48,3 +48,13 @@ Questa è la prima incongruenza apparente:
 - Teoricamente, il tempo esterno diventa infinito, e l’universo esterno potrebbe essere già vaporizzato, ma per B sono trascorse solo poche ore.
 - Se la navicella proseguisse oltre l’orizzonte, **non subirebbe compressioni o addensamenti**: le distanze locali rimangono normali, contrariamente alla previsione classica di materia che si addensa.
 - Questa è l’incongruenza: la fisica prevede una singolarità di densità infinita, ma l’osservatore locale non nota alcuna alterazione della propria navicella.
+
+
+### Distorsione dello spazio vicino all'orizzonte degli eventi
+
+- La navicella B si avvicina all'orizzonte degli eventi di un buco nero.
+- La distorsione spazio-tempo è tale che, per B, lo spazio locale **non si comporta normalmente**.
+- Man mano che B si avvicina, ciò che per un osservatore esterno sembra restringersi, per B **si percepisce come uno spazio che si allunga**.
+- Più la navicella si avvicina all'orizzonte, più la distanza residua verso di esso **aumenta**.
+- Di conseguenza, anche avvicinandosi all'infinito, la navicella B **non raggiunge mai realmente l'orizzonte degli eventi**.
+- Questo fenomeno spiega perché, pur teoricamente possibile, l'orizzonte degli eventi **non può essere toccato** dalla navicella B, restando coerente con la dilatazione temporale estrema osservata.
