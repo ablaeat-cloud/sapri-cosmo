@@ -42,3 +42,9 @@ Questa è la prima incongruenza apparente:
 - Se si tocca l’orizzonte, anche per una frazione infinitesimale del suo tempo locale, ciò corrisponde a un **tempo infinito** per l’universo esterno.
 - Questo concetto sfida la comprensione: il tempo locale continua normalmente, ma il riferimento esterno diventa inconcepibile.
 - Rimaniamo nel rigore scientifico: all’orizzonte degli eventi il tempo scorre teoricamente all’infinito, quindi l’idea di “andare oltre” è comprensibile solo dal punto di vista locale della navicella.
+- 
+
+- Una volta raggiunto l’ipotetico orizzonte degli eventi, la navicella **non percepisce alcun cambiamento**: tutto appare normale per l’osservatore locale B.
+- Teoricamente, il tempo esterno diventa infinito, e l’universo esterno potrebbe essere già vaporizzato, ma per B sono trascorse solo poche ore.
+- Se la navicella proseguisse oltre l’orizzonte, **non subirebbe compressioni o addensamenti**: le distanze locali rimangono normali, contrariamente alla previsione classica di materia che si addensa.
+- Questa è l’incongruenza: la fisica prevede una singolarità di densità infinita, ma l’osservatore locale non nota alcuna alterazione della propria navicella.
