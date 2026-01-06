@@ -75,3 +75,16 @@ Questa è la prima incongruenza apparente:
    - L’ipotetica stella di neuroni collassa sotto gravità: per l’osservatore esterno, il buco nero si forma gradualmente, con materia che si avvicina sempre di più all’orizzonte.
    - Localmente, la materia continua a cadere verso il centro senza accumularsi immediatamente.
    - **Conclusione narrativa scientifica**: la materia precipita, ma grazie all’allungamento dello spazio locale, l’orizzonte degli eventi **non viene mai toccato realmente**, e la singolarità resta un limite teorico, non un punto fisico tangibile per chi precipita.
+   - 
+
+   ### Collisione con la singolarità e analogie fondamentali
+
+- La materia che cade verso il buco nero **non può raggiungere l'orizzonte degli eventi**.  
+- La singolarità viene considerata come limite teorico con **densità finita**; tuttavia, localmente, la materia non riesce a toccare l'orizzonte.  
+
+- **Paralleli concettuali:**  
+  1. **Velocità della luce:** nessun oggetto con massa può raggiungerla.  
+  2. **Zero assoluto:** nessun sistema può raggiungere la temperatura 0 K.  
+  3. **Orizzonte degli eventi:** nessuna materia può toccarlo.  
+
+- In tutti e tre i casi si tratta di **limiti fondamentali imposti dalle leggi fisiche**: richiederebbero energie o tempi infiniti, e quindi **la materia rimane sempre infinitamente vicina senza mai superare il limite**.
